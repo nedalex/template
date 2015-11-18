@@ -16,7 +16,7 @@ Contents:
 
 
 
-Indices and tables
+Indices and tables (Alex)
 ==================
 
 * :ref:`genindex`
